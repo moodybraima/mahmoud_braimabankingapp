@@ -1,0 +1,15 @@
+.navbar{
+    margin:0px 0px 20px 2px;
+}
+
+nav a.active{
+    background-color:blueviolet;
+    text-decoration: none;
+    font-size:larger;
+    color:white;
+    padding-right: 10px;
+}
+
+.card{
+    margin: 0px 0px 0px 80px;
+}
